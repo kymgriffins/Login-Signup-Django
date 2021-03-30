@@ -1,5 +1,5 @@
 
-Django==3.0.5
+Django==3.0.12
 django-crispy-forms 
 Pillow==7.1.2
 virtualenv==20.0.21
